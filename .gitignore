@@ -1,0 +1,66 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# JetBrains / Rider
+.idea/
+**/.idea/
+
+# .NET
+**/bin/
+**/obj/
+
+# Node
+**/node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# User-specific files
+*.user
+*.suo
+
+# Build output
+dist/
+build/
+
+# Local HTTPS certificates
+localhost.pem
+localhost-key.pem
+**/localhost.pem
+**/localhost-key.pem
+
+# Backend secrets
+**/appsettings.json
+**/appsettings.Development.json
+
+# Visual Studio
+.vs/
+.idea/
+.vscode/
+
+# .NET
+**/bin/
+**/obj/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# ASP.NET secrets
+**/appsettings.Development.json
+**/appsettings.Local.json
+
+# HTTPS development certificates
+*.pem
+*.pfx
+
+# Node
+**/node_modules/
+**/appsettings.json

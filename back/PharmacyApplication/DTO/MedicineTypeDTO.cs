@@ -1,0 +1,4 @@
+﻿namespace Pharmacy.Application.DTO
+{
+    
+}
